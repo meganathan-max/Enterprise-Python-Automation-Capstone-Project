@@ -1,0 +1,16 @@
+date,product,category,quantity,unit_price
+2026-09-01,Laptop,Electronics,2,65000
+2026-09-02,Wireless Mouse,Electronics,8,850
+2026-09-03,Keyboard,Electronics,5,1400
+2026-09-04,Office Chair,Furniture,3,8500
+2026-09-05,Desk,Furniture,2,12000
+2026-09-06,Notebook,Stationery,20,80
+2026-09-07,Pen Set,Stationery,15,120
+2026-09-08,Monitor,Electronics,4,18000
+2026-09-09,Office Chair,Furniture,2,8500
+2026-09-10,Laptop,Electronics,1,65000
+2026-09-11,Notebook,Stationery,25,80
+2026-09-12,Keyboard,Electronics,7,1400
+2026-09-13,Desk,Furniture,1,12000
+2026-09-14,Monitor,Electronics,3,18000
+2026-09-15,Pen Set,Stationery,18,120
